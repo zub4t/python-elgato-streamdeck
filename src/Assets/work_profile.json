@@ -38,6 +38,20 @@
             }
         }
     },
+    "key3": {
+        "name": "Ubuntu",
+        "icon": "str('diamond.png')",
+        "font": "Roboto-Regular.ttf",
+        "label": "Ubuntu",
+        "command": "Remote"
+    },
+    "key9": {
+        "name": "Change Wallpaper",
+        "icon": "str('wallpaper.png')",
+        "font": "Roboto-Regular.ttf",
+        "label": "Random",
+        "command": "SetWallpaper"
+    },
     "key14": {
         "name": "Close Program",
         "icon": "str('cross__red.png')",
