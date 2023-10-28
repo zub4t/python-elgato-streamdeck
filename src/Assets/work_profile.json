@@ -1,0 +1,48 @@
+{
+    "key0": {
+        "name": "Remotes",
+        "icon": "'{}.png'.format('folder_closed' if not state else 'folder_open')",
+        "font": "Roboto-Regular.ttf",
+        "label": "Remotes",
+        "submenu": {
+            "key0": {
+                "name": "ssh-102",
+                "icon": "str('wifi.png')",
+                "font": "Roboto-Regular.ttf",
+                "label": "Open 102"
+            },
+            "key1": {
+                "name": "ssh-132",
+                "icon": "str('wifi.png')",
+                "font": "Roboto-Regular.ttf",
+                "label": "Open 132"
+            },
+            "key2": {
+                "name": "ssh-232",
+                "icon": "str('wifi.png')",
+                "font": "Roboto-Regular.ttf",
+                "label": "Open 232"
+            },
+            "key3": {
+                "name": "ssh-244",
+                "icon": "str('wifi.png')",
+                "font": "Roboto-Regular.ttf",
+                "label": "Open 244"
+            },
+            "key14": {
+                "name": "Back",
+                "icon": "str('arrow_left.png')",
+                "font": "Roboto-Regular.ttf",
+                "label": "Back",
+                "command": "Back"
+            }
+        }
+    },
+    "key14": {
+        "name": "Close Program",
+        "icon": "str('cross__red.png')",
+        "font": "Roboto-Regular.ttf",
+        "label": "Exit",
+        "command": "Exit"
+    }
+}

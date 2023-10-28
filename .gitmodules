@@ -1,0 +1,3 @@
+[submodule "src/Assets/streamdeck-iconpack-system-uicons"]
+	path = src/Assets/streamdeck-iconpack-system-uicons
+	url = https://github.com/czottmann/streamdeck-iconpack-system-uicons.git
